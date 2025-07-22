@@ -1,0 +1,50 @@
+{
+    "warehouse_stock":
+        [
+            {
+                "item_id": 355364077,
+                "quantity": 1000
+            },
+
+            {
+                "item_id": 288529195,
+                "quantity": 1000
+            },
+
+            {
+                "item_id": 198486906,
+                "quantity": 1000
+            },
+
+            {
+                "item_id": 695300392,
+                "quantity": 51
+            },
+
+            {
+                "item_id": 939621924,
+                "quantity": 1000
+            },
+
+            {
+                "item_id": 932008621,
+                "quantity": 1000
+            },
+
+            {
+                "item_id": 265278957,
+                "quantity": 1000
+            },
+
+            {
+                "item_id": 951490604,
+                "quantity": 32
+            },
+            
+            {
+                "item_id": 203997121,
+                "quantity": 1000
+            }
+
+        ]
+}

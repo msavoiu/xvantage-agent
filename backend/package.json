@@ -1,0 +1,26 @@
+{
+  "name": "xvantage-agent",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "Ingram Micro Pre-intern Project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/msavoiu/xvantage-agent.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/msavoiu/xvantage-agent/issues"
+  },
+  "homepage": "https://github.com/msavoiu/xvantage-agent#readme",
+  "dependencies": {
+    "@google/genai": "^1.8.0",
+    "dotenv": "^17.2.0",
+    "express": "^5.1.0",
+    "ollama": "^0.5.16"
+  }
+}
