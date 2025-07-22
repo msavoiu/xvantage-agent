@@ -1,0 +1,18 @@
+{
+    "vendor_deals": [
+        {
+            "item_id": 355364077,
+            "new_unit_price": 500.00
+        },
+
+        {
+            "item_id": 288529195,
+            "new_unit_price": 748.00
+        },
+
+        {
+            "item_id": 939621924,
+            "new_unit_price": 56.00
+        }
+    ]
+}

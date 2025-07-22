@@ -1,0 +1,75 @@
+{
+    "quotes":
+        [
+            {
+                "quote_id": 215255568,
+                "date_created": "07/1/2025",
+                "date_expiring": "7/31/2025",
+                "items":
+                    [
+                        {
+                            "item_id": 355364077,
+                            "unit_price": 725.00
+                        },
+
+                        {
+                            "item_id": 288529195,
+                            "unit_price": 849.00
+                        },
+
+                        {
+                            "item_id": 198486906,
+                            "unit_price": 130.00
+                        }
+                    ]
+            
+            },
+
+            {
+                "quote_id": 845361388,
+                "date_created": "07/15/2025",
+                "date_expiring": "08/10/2025",
+                "items":
+                    [
+                        {
+                            "item_id": 695300392,
+                            "unit_price": 307.00
+                        },
+
+                        {
+                            "item_id": 939621924,
+                            "unit_price": 173.00
+                        },
+
+                        {
+                            "item_id": 932008621,
+                            "unit_price": 379.00
+                        }
+                    ]
+
+            },
+
+            {
+                "quote_id": 778921512,
+                "date_created": "07/15/2025",
+                "date_expiring": "07/20/2025",
+                "items":
+                    [
+                        {
+                            "item_id": 265278957,
+                            "unit_price": 161.00
+                        },
+
+                        {
+                            "item_id": 951490604,
+                            "unit_price": 2641.00
+                        },
+
+                        {
+                            "item_id": 203997121,
+                            "unit_price": 1768.00
+                        }
+                    ]   
+            }
+        ]
+}
